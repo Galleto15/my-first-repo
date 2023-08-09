@@ -10,5 +10,5 @@ Silver
 Fuchsia
 Purple
 Brown
-Black
+sera que podemos hacer funcionar git diff ffs
 
